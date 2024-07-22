@@ -2,13 +2,13 @@
 
 # TECHNOLOGY USED :
 
-1)Using ReactJS To make the SPA.
-2)Using React Router to make the Virtual DOM Manipulation.
-3)Using the diffrent types of the hooks.
-  a)UseState
-  b)UseEffect etc.
-4)Used the Google fonts To make webpage Responsive and Attractive as well.
-5)Used media queries to make the website suitable for all the Devices.
+1)Using ReactJS To make the SPA.<br>
+2)Using React Router to make the Virtual DOM Manipulation.<br>
+3)Using the diffrent types of the hooks.<br>
+  a)UseState<br>
+  b)UseEffect etc.<br>
+4)Used the Google fonts To make webpage Responsive and Attractive as well.<br>
+5)Used media queries to make the website suitable for all the Devices.<br>
 
 # Output Screens:
 
